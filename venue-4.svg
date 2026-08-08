@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" role="img" aria-label="venue-4">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#1f1710"/><stop offset="1" stop-color="#0f0b07"/>
+  </linearGradient></defs>
+  <rect width="96" height="96" rx="14" fill="url(#bg)"/>
+  <rect y="74" width="96" height="22" fill="#241a11"/>
+  <path d="M14 74V46l16-12 16 12v28z" fill="#31241a"/>
+  <path d="M10 46l20-16 20 16z" fill="#42311f"/>
+  <rect x="26" y="58" width="10" height="16" fill="#eec44f" fill-opacity=".8"/>
+  <path d="M56 74V52l14-10 14 10v22z" fill="#31241a"/>
+  <path d="M52 52l18-13 18 13z" fill="#42311f"/>
+  <circle cx="70" cy="62" r="5" fill="#e5514f" fill-opacity=".8"/>
+</svg>

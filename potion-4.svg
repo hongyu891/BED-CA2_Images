@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" role="img" aria-label="potion-4">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#1b1f2a"/><stop offset="1" stop-color="#0d1016"/>
+  </linearGradient></defs>
+  <rect width="96" height="96" rx="14" fill="url(#bg)"/>
+  <path d="M40 18h16v16l14 26a12 12 0 0 1-10 18H36a12 12 0 0 1-10-18l14-26z" fill="#2b303c" stroke="#454b5b" stroke-width="2"/>
+  <path d="M31 52h34l5 8a12 12 0 0 1-10 18H36a12 12 0 0 1-10-18z" fill="#a9801d"/>
+  <path d="M31 52h34l2 4H29z" fill="#eec44f"/>
+  <circle cx="42" cy="66" r="3" fill="#eec44f" fill-opacity=".7"/>
+  <circle cx="54" cy="72" r="2" fill="#eec44f" fill-opacity=".5"/>
+  <rect x="37" y="12" width="22" height="7" rx="3" fill="#5a6172"/>
+</svg>

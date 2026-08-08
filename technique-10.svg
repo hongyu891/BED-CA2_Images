@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" role="img" aria-label="technique-10">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#1b1f2a"/><stop offset="1" stop-color="#0d1016"/>
+  </linearGradient></defs>
+  <rect width="96" height="96" rx="14" fill="url(#bg)"/>
+  <path d="M30 40h10l14-12v40L40 56H30z" fill="#e08a4f" fill-opacity=".85"/>
+  <path d="M62 36a16 16 0 0 1 0 24" stroke="#e08a4f" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M70 28a28 28 0 0 1 0 40" stroke="#e08a4f" stroke-width="4" fill="none" stroke-linecap="round" opacity=".5"/>
+</svg>

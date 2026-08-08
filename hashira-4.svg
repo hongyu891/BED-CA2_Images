@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" role="img" aria-label="hashira-4">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#1b1f2a"/><stop offset="1" stop-color="#0d1016"/>
+  </linearGradient></defs>
+  <rect width="96" height="96" rx="14" fill="url(#bg)"/>
+  <circle cx="48" cy="32" r="15" fill="#c9a98d"/>
+  <path d="M48 17c9 0 14 6 14 12H34c0-6 5-12 14-12Z" fill="#241c20"/>
+  <path d="M40 34h4M52 34h4" stroke="#241c20" stroke-width="3" stroke-linecap="round"/>
+  <path d="M30 50h36l10 12v34H20V62z" fill="#22262f"/>
+  <path d="M48 50l-8 12 8 6 8-6z" fill="#141821"/>
+  <path d="M22 64c10-6 20-6 26 0s16 6 26 0" stroke="#dfe3ec" stroke-opacity=".6" stroke-width="4" fill="none"/><path d="M22 74c10-6 20-6 26 0s16 6 26 0" stroke="#dfe3ec" stroke-opacity=".4" stroke-width="4" fill="none"/>
+  <path d="M20 62l10-12M76 62L66 50" stroke="#dfe3ec" stroke-width="3" stroke-linecap="round"/>
+</svg>
